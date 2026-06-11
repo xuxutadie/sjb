@@ -1,0 +1,6 @@
+{
+  "name": "梅花易数世界杯预测器",
+  "description": "基于梅花易数起卦逻辑、DeepSeek 大模型与个人信息的世界杯足球比赛预测器，包含胜负平、比分三象、角球、红黄牌预测与决策罗盘分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_AI_API"]
+}
